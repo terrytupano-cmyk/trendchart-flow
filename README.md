@@ -11,7 +11,7 @@ This implementation is a Vaadin Flow wraper from the original web component foun
 
 
 ## Example Code
-The followin code is extracted from `UsersSticker.java` in test directory
+The followin code is extracted from `UsersSticker.java` in test directory.
 ```java
 public class UsersSticker extends Sticker {
 
