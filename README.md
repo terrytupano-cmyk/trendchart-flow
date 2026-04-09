@@ -1,9 +1,3 @@
-[![Published on Vaadin Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/image-crop-add-on)
-[![Stars on vaadin.com/directory](https://img.shields.io/vaadin-directory/star/image-crop-add-on.svg)](https://vaadin.com/directory/component/image-crop-add-on)
-[![Build Status](https://jenkins.flowingcode.com/job/ImageCrop-addon/badge/icon)](https://jenkins.flowingcode.com/job/ImageCrop-addon)
-[![Maven Central](https://img.shields.io/maven-central/v/com.flowingcode.vaadin.addons/image-crop-addon)](https://mvnrepository.com/artifact/com.flowingcode.vaadin.addons/image-crop-addon)
-
-
 # TrendChart add-on for Vaadin Flow
 WebLogin TrendChart Elements are web components to generate simple, light and responsive charts representing trends. It is often useful to display some simple charts to represent a data visualization trend without the need of a big chart library.
 
