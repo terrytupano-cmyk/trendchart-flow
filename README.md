@@ -64,7 +64,8 @@ public class UsersSticker extends Sticker {
 
 
 ## install
-Install the component using Vaadin Directory
+Install the component using Vaadin Directory.
+
 Tested versions: Vaadin 24
 
 
