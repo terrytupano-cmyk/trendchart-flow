@@ -62,23 +62,14 @@ public class UsersSticker extends Sticker {
 }
 ```
 
-Supported versions: Vaadin 24
+
+## install
+Install the component using Vaadin Directory
+Tested versions: Vaadin 24
 
 
 ## Download release
 [Available in Vaadin Directory](https://vaadin.com/directory/component/image-crop-add-on)
-
-
-## Maven install
-Add the following dependencies in your pom.xml file:
-
-```xml
-<dependency>
-   <groupId>org.vaadin.addons.terrytupano</groupId>
-   <artifactId>trendchart-flow</artifactId>
-   <version>X.Y.Z</version>
-</dependency>
-```
 
 ## Building and running demo
 - git clone repository
