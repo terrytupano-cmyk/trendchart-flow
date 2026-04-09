@@ -70,7 +70,7 @@ Tested versions: Vaadin 24
 
 
 ## Download release
-[Available in Vaadin Directory](https://vaadin.com/directory/component/image-crop-add-on)
+[Available in Vaadin Directory](https://vaadin.com/directory/component/xx)
 
 ## Building and running demo
 - git clone repository
