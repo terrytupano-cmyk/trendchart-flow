@@ -82,10 +82,6 @@ Tested versions: Vaadin 24
 </p>
 
 
-## Contributions
-Contributions are welcome. There are two primary ways you can contribute: by reporting issues or by submitting code changes through pull requests. To ensure a smooth and effective process for everyone, please follow the guidelines below for the type of contribution you are making.
-
-
 ## License & Author
 This add-on is distributed under Apache License 2.0. For license terms, see LICENSE file.
 
