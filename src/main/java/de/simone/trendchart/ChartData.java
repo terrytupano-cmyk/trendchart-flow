@@ -29,7 +29,7 @@ public class ChartData {
      */
     public List<Number> values;
 
-    /**
+    /** 
      * Optional - Array of strings for the labels corresponding to the values, it
      * needs to be the same length as values array.
      */
