@@ -70,7 +70,7 @@ Tested versions: Vaadin 24
 
 
 ## Download release
-[Available in Vaadin Directory](https://vaadin.com/directory/component/xx)
+[Available in Vaadin Directory](https://vaadin.com/directory/component/trendchart-add-on-for-vaadin-flow)
 
 ## Building and running demo
 - git clone repository

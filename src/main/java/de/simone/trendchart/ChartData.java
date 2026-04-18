@@ -21,7 +21,7 @@ package de.simone.trendchart;
 
 import java.util.List;
 
-public class ChartData {
+public class ChartData { 
 
     /**
      * Required - Array of numbers for the values, at least 2 for line and bar
